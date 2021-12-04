@@ -96,16 +96,23 @@ li a {
 }
 .jumbotron2{
     text-align: center;
-    background-color: grey;
+    background-color: rgb(46, 223, 11);
     color: #000;
 }
 .port{
+    margin-top: -16px;
     display: flex;
     height: 500px;
     width: 100%;
+    justify-content: space-evenly;
+    background-color: rgb(51, 39, 39);
 }
-port1{
-  height: 500px; 
+#port,#port1{
+  height: 400px; 
   width: 500px;
-  border: solid black; 
+  border: 1px black; 
+  text-align: center;
+  background-color: orange;
+  color: white;
+  padding-top: 40px;
 }
