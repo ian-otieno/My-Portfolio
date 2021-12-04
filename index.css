@@ -99,3 +99,13 @@ li a {
     background-color: grey;
     color: #000;
 }
+.port{
+    display: flex;
+    height: 500px;
+    width: 100%;
+}
+port1{
+  height: 500px; 
+  width: 500px;
+  border: solid black; 
+}
