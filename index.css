@@ -69,6 +69,7 @@ li a {
 
 .jumbotron {
     background-color: hotpink;
+    padding: 30px;
 }
 
 .content2 {
@@ -87,4 +88,14 @@ li a {
     height: 500px;
     box-shadow: 1px 2px 1px grey;
     text-align: center;
+}
+.jumbotron1{
+ text-align: center;
+ background-color: blue;
+ padding: 30px;  
+}
+.jumbotron2{
+    text-align: center;
+    background-color: grey;
+    color: #000;
 }
