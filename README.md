@@ -3,7 +3,7 @@ This is my portfolio website that shows a vivid description about me and my unde
 ## Description
 This is my portfolio website that shows details about me, my interests, what I do and the experience I have gained on the projects I worked on.
 ## setup/installation
-Click on the link  bellow to view the site;https: 
+Click on the link  bellow to view the site;https: https://ian-otieno.github.io/My-Portfolio/
 ## Todo list
 Description<bbr>
 Installation Requirement<br>
