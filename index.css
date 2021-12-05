@@ -72,6 +72,7 @@ li a {
     padding: 30px;
     font-weight: bolder;
     font-style: italic;
+    color: blue;
 }
 
 .content2 {
@@ -99,6 +100,7 @@ li a {
     font-weight: bolder;
     font-style: italic;
     color: blue;
+    background-color: hotpink;
 }
 
 .jumbotron2 {
