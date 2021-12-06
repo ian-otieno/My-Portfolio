@@ -56,6 +56,7 @@ li a {
     background-color: grey;
     display: flex;
     justify-content: space-evenly;
+    font-weight: bolder;
 }
 
 #image {
@@ -92,6 +93,21 @@ li a {
     height: 500px;
     box-shadow: 1px 2px 1px grey;
     text-align: center;
+    font-weight: bolder;
+}
+.education{
+width: 100%;
+height: 500px;
+display: flex;
+justify-content: space-evenly;
+}
+.bac{
+margin-top: 50px;
+ height: 420px; 
+ width: 500px; 
+ text-align: center;
+ box-shadow: 1px 2px 1px 1px grey;
+ font-weight: bolder;
 }
 
 .jumbotron1 {
@@ -128,11 +144,13 @@ li a {
     background-color: grey;
     color: white;
     padding-top: 40px;
+    font-weight: bolder;
 }
 
 .contact {
     width: 100%;
     height: 200px;
+    font-weight: bolder;
 }
 
 .jumbotron3 {
@@ -217,6 +235,7 @@ footer {
     justify-content: space-evenly;
     background-color: aqua;
     margin-top: -14px;
+    font-weight: bolder;
 }
 
 .footer {
