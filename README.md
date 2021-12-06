@@ -1,11 +1,20 @@
 # My-Portfolio
 This is my portfolio website that shows a vivid description about me and my undertakings designed on the 3/12/2021 by Ian Otieno
+
 ## Description
 This is my portfolio website that shows details about me, my interests, what I do and the experience I have gained on the projects I worked on.
-## setup/installation
+
+## live demo 
 Click on the link  bellow to view the site;https: https://ian-otieno.github.io/My-Portfolio/
+
+## Set up and Installation
+1)Install the Visual studio code<br>
+2)Git clone the repository<br>
+3)Make sure the live server extension is installed<br>
+4)Click on Go live
+
 ## Todo list
-Description<bbr>
+Description<br>
 Installation Requirement<br>
 Technology Used<br>
 Reference<br>
